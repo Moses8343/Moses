@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moses</h1>
-<h3 align="center">Thriving Front-End developer </h3>
+<h3 align="center">Developer </h3>
 <img align="right"alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20tech%20images&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20230913%2Foriginal%2Fpngtree-coding-clipart-guy-in-glasses-computer-tech-cartoon-vector-illustration-png-image_11076056.png&imgrefurl=https%3A%2F%2Fpngtree.com%2Fso%2Ftech-cartoon&docid=Ey1Mv8-J_VVsTM&tbnid=LkdOWN1ZBVC5FM&vet=12ahUKEwicgN_8yqyNAxXcWKQEHWPZHpcQM3oFCIABEAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwicgN_8yqyNAxXcWKQEHWPZHpcQM3oFCIABEAA"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moses8343&label=Profile%20views&color=0e75b6&style=flat" alt="moses8343" /> </p>

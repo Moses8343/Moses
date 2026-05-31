@@ -1,23 +1,40 @@
-<h1 align="center">Hi 👋, I'm Moses</h1>
-<h3 align="center">Developer </h3>
-<img align="right"alt="Coding" width="400" src="https://www.google.com/imgres?q=animated%20tech%20images&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-clipart%2F20230913%2Foriginal%2Fpngtree-coding-clipart-guy-in-glasses-computer-tech-cartoon-vector-illustration-png-image_11076056.png&imgrefurl=https%3A%2F%2Fpngtree.com%2Fso%2Ftech-cartoon&docid=Ey1Mv8-J_VVsTM&tbnid=LkdOWN1ZBVC5FM&vet=12ahUKEwicgN_8yqyNAxXcWKQEHWPZHpcQM3oFCIABEAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwicgN_8yqyNAxXcWKQEHWPZHpcQM3oFCIABEAA"
+# Hey there 👋 I'm Moses
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moses8343&label=Profile%20views&color=0e75b6&style=flat" alt="moses8343" /> </p>
+**Full-stack developer · Python & React · Nairobi, Kenya 🇰🇪**
 
-- 🔭 I’m currently working on a group project **e-marker face recognition**
+> 🟢 **Open to work** — seeking junior/mid web developer roles in mission-driven or tech organisations
 
-- 📫 How to reach me **mosesoduor8343@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/oduormoses5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oduormoses5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mosesoduor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mosesoduor" height="30" width="40" /></a>
-<a href="https://instagram.com/mosesoduor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mosesoduor" height="30" width="40" /></a>
-</p>
+## 🧑‍💻 About me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+I'm a passionate junior developer with 1–2 years of hands-on experience building modern web apps from frontend to backend. I enjoy crafting clean UIs and building reliable APIs that solve real problems. Currently looking to grow in a team that values both craft and impact.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moses8343&show_icons=true&locale=en&layout=compact" alt="moses8343" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moses8343&" alt="moses8343" /></p>
+## 🛠 Tech stack
+
+**Frontend:** HTML5 · CSS3 · JavaScript · React (JSX/TSX)
+**Backend:** Python · Django · FastAPI · PHP (learning)
+**Tools:** Git & GitHub · REST APIs · PostgreSQL · WebSockets · VS Code
+
+---
+
+## 📌 Projects(Major milestone)
+
+### 🗺 [Nairobi CBD GPS Traffic Analytics](https://github.com/yourusername/nairobi-cbd-gps)
+Real-time traffic analytics system for Nairobi's CBD. Ingests live GPS pings from vehicles, performs map-matching against road segments, detects congestion bottlenecks, and streams live traffic data to a web dashboard via WebSockets.
+
+`Python` `FastAPI` `PostgreSQL` `WebSockets` `Geospatial / UTM`
+
+### 🏠 [PataKeja](https://github.com/yourusername/patakeja)
+A Kenyan rental listing platform connecting landlords and tenants in areas like Rongai. Features OTP phone verification, property photo uploads, tenant search alerts, push notifications, and a bilingual interface (English & Kiswahili).
+
+`Python` `Django` `Django REST Framework` `React` `TypeScript` `Cloudinary` `Africa's Talking` `JWT Auth` `PostgreSQL`
+
+---
+
+## 📫 Get in touch
+
+📧 mosesoduor8343@gmail.com] · 💼 linkedin.com/in/ODUOR OCHIENG · 🌍 Nairobi, Kenya
+

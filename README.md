@@ -33,7 +33,7 @@ A Kenyan rental listing platform connecting landlords and tenants in areas like 
 `Python` `Django` `Django REST Framework` `React` `TypeScript` `Cloudinary` `Africa's Talking` `JWT Auth` `PostgreSQL`
 
 ---
-
+##📄 [Download my CV](https://github.com/Moses8343/Moses/raw/main/Moses_resume.pdf)
 ## 📫 Get in touch
 
 📧 mosesoduor8343@gmail.com] · 💼 linkedin.com/in/ODUOR OCHIENG · 🌍 Nairobi, Kenya
